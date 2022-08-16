@@ -176,6 +176,12 @@ form input {
   width: 180px;
 }
 
+.field {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
 form button {
   background-color: #83092e;
   border: none;
