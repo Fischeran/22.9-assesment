@@ -59,6 +59,10 @@ nav .group {
   justify-content: center;
 }
 
+#imageToFit {
+  width: 65%;
+}
+
 
 
 /* -------  Footer ------- */
@@ -127,6 +131,7 @@ header {
   background-color: #83092e;
   padding: 20px 20px 0 20px;
   text-align: center;
+  contain: content;
 }
 
 header nav {
