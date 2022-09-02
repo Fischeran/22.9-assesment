@@ -59,9 +59,7 @@ nav .group {
   justify-content: center;
 }
 
-#imageToFit {
-  width: 65%;
-}
+
 
 
 
@@ -79,7 +77,15 @@ footer p {
 
 /* -------  Media Query ------- */
 
+
+
+
+
 @media all and (min-width: 480px) {
+
+  #imageToFit {
+    width: 65%;
+  }
 
   header {
     padding: 0px;
